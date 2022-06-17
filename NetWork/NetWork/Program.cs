@@ -20,7 +20,7 @@ namespace TesteLogico
             }
 
             Console.WriteLine("______________Connect______________  ");
-            
+
             var exit = 1;
             while (exit != 0)
             {
